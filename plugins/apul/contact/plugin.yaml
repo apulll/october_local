@@ -1,0 +1,11 @@
+plugin:
+    name: 'apul.contact::lang.plugin.name'
+    description: 'apul.contact::lang.plugin.description'
+    author: Apul
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Menu Item'
+        url: /apul/contact
+        icon: icon-archive

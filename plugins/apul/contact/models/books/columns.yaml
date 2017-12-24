@@ -1,0 +1,6 @@
+columns:
+    name:
+        label: 姓名
+        type: text
+        searchable: false
+        invisible: false

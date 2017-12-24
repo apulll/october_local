@@ -1,0 +1,10 @@
+name: Contact
+form: $/apul/contact/models/books/fields.yaml
+modelClass: Apul\Contact\Models\Books
+defaultRedirect: apul/contact/contact
+create:
+    redirect: 'apul/contact/contact/update/:id'
+    redirectClose: apul/contact/contact
+update:
+    redirect: apul/contact/contact
+    redirectClose: apul/contact/contact

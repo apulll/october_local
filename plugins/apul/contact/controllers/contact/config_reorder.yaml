@@ -1,0 +1,4 @@
+title: Contact
+modelClass: Apul\Contact\Models\Books
+toolbar:
+    buttons: reorder_toolbar
